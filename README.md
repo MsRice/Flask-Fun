@@ -5,6 +5,6 @@ Ranges from pretty basic to 8 of 10 difficulty
 Routing through port 5000 local host
 
 Assignments in asc level of difficulty
-1.Understanding Rounting
+	1. Understanding Rounting
 
 
